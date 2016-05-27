@@ -1,2 +1,1 @@
-# hello-world
-My first github repository!
+Hello there. I'm Dennya, from Minsk, BY. I'm dev
